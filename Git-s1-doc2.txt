@@ -1,0 +1,9 @@
+Existen diferentes tipos de documentación disponible en esta web:
+
+Documentación de Referencia de la API
+Características de ES6
+Guías
+Documentación de Referencia de la API
+La Documentación de Referencia de la API proporciona información detallada sobre una función u objeto en Node.js. Esta documentación indica qué argumentos acepta un método, el valor de retorno de ese método y que errores pueden estar relacionados con ese método. También indica qué métodos están disponibles para diferentes versiones de Node.js.
+
+continua en el archivo "Git-si-doc3.txt"
